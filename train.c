@@ -448,12 +448,12 @@ int main() {
   coada -> head = NULL;
   coada -> tail = NULL;
   coada -> len = 0;
-  inp_file = fopen("tema1.in", "r");
+  inp_file = fopen("example.in", "r");
   if (inp_file == NULL) {
     printf("ERROR\n");
     exit(-1);
   }
-  output_file = fopen("tema1.out", "w");
+  output_file = fopen("example.out", "w");
   if (output_file == NULL) {
     printf("ERROR\n");
     exit(-1);
