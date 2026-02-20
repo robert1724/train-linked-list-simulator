@@ -453,7 +453,7 @@ int main() {
     printf("ERROR\n");
     exit(-1);
   }
-  output_file = fopen("example.out", "w");
+  output_file = fopen("result.out", "w");
   if (output_file == NULL) {
     printf("ERROR\n");
     exit(-1);
