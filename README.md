@@ -13,7 +13,7 @@ Data Structures Used
   - Command queue (doubly linked list)
   - Dynamic memory allocation
 
-Supported Operations
+Supported Operations (extra descriptions inside the code)
   - MOVE_LEFT / MOVE_RIGHT
   - INSERT_L / INSERT_R
   - WRITE
